@@ -1,7 +1,3 @@
-Here’s the updated **README.md** for **AdventJS2024**, considering both **JavaScript** and **Python** solutions, organized in separate folders.  
-
----
-
 # 🎄 AdventJS 2024 Solutions 🎄  
 
 Welcome to the **AdventJS 2024** challenge solutions repository! 🚀  
