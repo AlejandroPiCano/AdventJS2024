@@ -6,4 +6,4 @@ def prepare_gifts(gifts):
   # Code here
   return sorted(set(gifts))
 
-#print(prepare_gifts([3, 4, 3, 5, 6, 6])) # [3, 4, 5, 6]
+print(prepare_gifts([3, 4, 3, 5, 6, 6])) # [3, 4, 5, 6]
